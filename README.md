@@ -28,13 +28,13 @@ This project was developed in partnership with the Detroit Police Department (DP
 ## 📊 Dashboards
 
 ### 🔹 1. Average Day and Time of Out-of-Service Events
-![Day & Time OOS](dashboards/day_time_oos.png)  
+![Day & Time OOS](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/dashboards/Day_time%20oos.png)  
 This chart highlights when scout cars most frequently go out of service. Higher OOS activity is seen during mid-day and evening hours, with Sunday being a high-risk day for downtime.
 
 ---
 
 ### 🔹 2. Top Reasons Scout Cars Go Out of Service
-![Reasons for OOS](dashboards/reason_oos.png)  
+![Reasons for OOS](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/dashboards/Patrol%20Shift%20Risk.png)  
 This visualization breaks down the top OScodes behind scout car OOS events. Leading causes include *Fire Rig Inventory*, *Duty Officer on Duty*, and *Medical Documentation*, showing the impact of non-mechanical downtime on patrol efficiency.
 
 ---
@@ -43,12 +43,12 @@ This visualization breaks down the top OScodes behind scout car OOS events. Lead
 
 - 📄 [Final Report (Word)](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/Practicum%20Report.docx)
 - 🖥️ [Final Presentation (Google Slides)](https://docs.google.com/presentation/d/10XCMmuel8z4Y61ADDvmU6hUkgM1fkMcjE4c3dDhfTqE/edit?usp=sharing)
-- 📁 [Dashboard Images](dashboards/)
+- 📁 [Dashboard Images](https://github.com/Eriyon24/dpd-patrol-resource-management/tree/main/dashboards)
 
 ---
 
 ## 🎥 Project Overview Video
-📺 *[Insert YouTube or Drive Link Here]*
+📺 *[]*
 
 ---
 
