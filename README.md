@@ -15,8 +15,8 @@ This project was completed as part of the Summer 2025 DSA 7500 Practicum at Wayn
 ## Deliverables
 - 📊 **Tableau Dashboards** (Workload balance, Delay analysis, Cost modeling, Vehicle utilization)
 - 📄 [Final Report (PDF)](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/Practicum%20Report.docx)
-- 🖥️ [Final Presentation Slides (PDF)](./Presentation_Final.pdf)
-- 📹 [Project Overview Video](./video/overview_video_link.txt)
+- [View Final Project Presentation on Google Slides](https://docs.google.com/presentation/d/10XCMmuel8z4Y61ADDvmU6hUkgM1fkMcjE4c3dDhfTqE/edit?usp=sharing)
+
 
 ## Key Findings
 - Precincts 3 and 8 had similar workloads but drastically different response delays due to staffing models and platoon structure.
