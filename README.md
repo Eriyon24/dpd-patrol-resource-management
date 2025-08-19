@@ -14,7 +14,7 @@ This project was completed as part of the Summer 2025 DSA 7500 Practicum at Wayn
 
 ## Deliverables
 - 📊 **Tableau Dashboards** (Workload balance, Delay analysis, Cost modeling, Vehicle utilization)
-- 📄 [Final Report (PDF)](./Practicum_Report.pdf)
+- 📄 [Final Report (PDF)](Practicum Report.docx)
 - 🖥️ [Final Presentation Slides (PDF)](./Presentation_Final.pdf)
 - 📹 [Project Overview Video](./video/overview_video_link.txt)
 
