@@ -1,45 +1,65 @@
-# dpd-patrol-resource-management
-# Detroit Police Department: Patrol Resource Management
+# Detroit Police Department: Patrol Resource Management  
+**DSA 7500 Practicum | Summer 2025 | Wayne State University**
 
-## Overview
-This project was completed as part of the Summer 2025 DSA 7500 Practicum at Wayne State University. In collaboration with the Detroit Police Department (DPD), our team developed interactive dashboards to improve patrol deployment, response equity, and operational efficiency across precincts.
+## 🚔 Overview
+This project was developed in partnership with the Detroit Police Department (DPD) to improve how patrol resources are deployed across precincts. Our team used real dispatch and unit data to build interactive dashboards and uncover operational inefficiencies that contribute to response delays and uneven workloads.
 
-**Team Members**: Eriyon Adams, Adanna Smith, Eugene Lowe, Katrina Skiotys, Ahmad Hamood
+**Team Members**: Eriyon Adams, Adanna Smith, Eugene Lowe, Katrina Skiotys, Ahmad Hamood  
+**Tools Used**: Tableau, Microsoft Excel, DPD CAD Logs, City of Detroit Open Data Portal
 
-## Objectives
-- Enhance patrol deployment through data-driven insights.
-- Monitor unit availability and out-of-service trends.
-- Compare performance across precincts (e.g., Precincts 3 vs. 8).
-- Provide actionable cost projections for resource planning.
+---
 
-## Deliverables
-- 📊 **Tableau Dashboards** 
-- 📄 [Final Report (PDF)](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/Practicum%20Report.docx)
-- [View Final Project Presentation on Google Slides](https://docs.google.com/presentation/d/10XCMmuel8z4Y61ADDvmU6hUkgM1fkMcjE4c3dDhfTqE/edit?usp=sharing)
+## 🎯 Objectives
+- Analyze patrol unit availability and out-of-service (OOS) trends.
+- Compare performance across precincts (e.g., Precinct 3 vs. 8).
+- Model the operational and financial impact of deployment scenarios.
+- Provide data-driven recommendations to DPD leadership.
 
+---
 
-## Key Findings
-- Precincts 3 and 8 had similar workloads but drastically different response delays due to staffing models and platoon structure.
-- Vehicle data revealed inefficiencies where scout cars had high maintenance costs but low deployment.
-- Assist patterns showed under-resourced areas requiring inter-precinct coordination.
+## 🧠 Key Insights
+- Precincts 3 and 8 managed similar call volumes, but Precinct 3 performed better due to dual-platoon coverage.
+- Over 60% of calls in Precinct 8 had delayed response times (>15 minutes), despite similar demand.
+- Most OOS events were due to administrative or documentation tasks—not mechanical issues.
+- Vehicles with high maintenance costs and low deployment could be reassigned to boost efficiency.
 
-## Tools Used
-- Tableau
-- Microsoft Excel
-- City of Detroit Open Data Portal
-- DPD CAD logs (6-month and 1-month samples)
+---
 
-## Video Overview
-📺 [Watch the project summary video](<insert-YouTube-or-Drive-link-here>)
+## 📊 Dashboards
 
-## Dashboards
-You can find screenshots in the `dashboards/` folder or view them on [Tableau Public](<insert-link-if-available>).
+### 🔹 1. Average Day and Time of Out-of-Service Events
+![Day & Time OOS](dashboards/day_time_oos.png)  
+This chart highlights when scout cars most frequently go out of service. Higher OOS activity is seen during mid-day and evening hours, with Sunday being a high-risk day for downtime.
 
-## Future Work
-- Analyze call closure timing and shift transitions
-- Expand analysis of out-of-service codes and assist durations
-- Explore machine learning models for dynamic deployment optimization
+---
 
-## License
-This project is for academic purposes only and may contain confidential or restricted datasets from DPD. Dashboards and data summaries are shared with permission from Wayne State University’s DSA program.
+### 🔹 2. Top Reasons Scout Cars Go Out of Service
+![Reasons for OOS](dashboards/reason_oos.png)  
+This visualization breaks down the top OScodes behind scout car OOS events. Leading causes include *Fire Rig Inventory*, *Duty Officer on Duty*, and *Medical Documentation*, showing the impact of non-mechanical downtime on patrol efficiency.
+
+---
+
+## 📂 Project Files
+
+- 📄 [Final Report (Word)](https://github.com/Eriyon24/dpd-patrol-resource-management/blob/main/Practicum%20Report.docx)
+- 🖥️ [Final Presentation (Google Slides)](https://docs.google.com/presentation/d/10XCMmuel8z4Y61ADDvmU6hUkgM1fkMcjE4c3dDhfTqE/edit?usp=sharing)
+- 📁 [Dashboard Images](dashboards/)
+
+---
+
+## 🎥 Project Overview Video
+📺 *[Insert YouTube or Drive Link Here]*
+
+---
+
+## 🔄 Future Work
+- Analyze call closure timing and platoon shift transitions.
+- Prioritize OOS codes by operational risk.
+- Explore predictive modeling for staffing optimization.
+- Improve coordination for inter-precinct unit assistance.
+
+---
+
+## 🔒 License & Use
+This project was developed for academic purposes and includes restricted-use datasets provided by the Detroit Police Department. Dashboard screenshots and analysis are shared with permission from Wayne State University's Data Science & Business Analytics program.
 
