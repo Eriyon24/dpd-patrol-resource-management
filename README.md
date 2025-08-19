@@ -48,7 +48,7 @@ This visualization breaks down the top OScodes behind scout car OOS events. Lead
 ---
 
 ## 🎥 Project Overview Video
-📺 *[]*
+📺 https://waynestateprod-my.sharepoint.com/:f:/g/personal/ex4360_wayne_edu/Ens2-qLw2qBFocRJJlA6LdYB09JKF2fm5CAIVR5nXrW_jw
 
 ---
 
