@@ -2,7 +2,7 @@
 **DSA 7500 Practicum | Summer 2025 | Wayne State University**
 
 ## 🚔 Overview
-This project was developed in partnership with the Detroit Police Department (DPD) to improve how patrol resources are deployed across precincts. Our team used real dispatch and unit data to build interactive dashboards and uncover operational inefficiencies that contribute to response delays and uneven workloads.
+This project was developed in partnership with the Detroit Police Department (DPD) to improve how patrol resources are deployed across precincts. Our team used real dispatch and unit data to build interactive dashboards and uncover operational inefficiencies that contribute to response delays and uneven workloads.All data is based on April of 2025.
 
 **Team Members**: Eriyon Adams, Adanna Smith, Eugene Lowe, Katrina Skiotys, Ahmad Hamood  
 **Tools Used**: Tableau, Microsoft Excel, DPD CAD Logs, City of Detroit Open Data Portal
